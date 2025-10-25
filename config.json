@@ -1,0 +1,84 @@
+{
+  "rules": {
+    "tariffs": {
+      "memberDouble": 5250,
+      "yellowMultiplier": 1.1
+    },
+    "specialPeriods": [
+      {"start": "2025-10-17", "end": "2025-11-02", "type": "Diwali Season", "color": "yellow"},
+      {"start": "2025-12-19", "end": "2026-01-04", "type": "Christmas Season", "color": "yellow"}
+    ]
+  },
+  "rooms": [
+    {"Block": "A", "Room No": "A-1", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-2", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-3", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-4", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-5", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-6", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-7", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-8", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "A", "Room No": "A-9", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "B", "Room No": "B-1", "Airconditioning": "No", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-2", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-3", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-4", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-5", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-6", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-7", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-8", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "B", "Room No": "B-9", "Airconditioning": "No", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "Old C", "Room No": "C-1", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "Old C", "Room No": "C-2", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "Old C", "Room No": "C-3", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "Old C", "Room No": "C-4", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "Old C", "Room No": "C-5", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "Old C", "Room No": "C-6", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "Yes"},
+    {"Block": "New C", "Room No": "C-7", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "Yes", "Group Booking Permitted": "Yes"},
+    {"Block": "New C", "Room No": "C-8", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "Yes", "Group Booking Permitted": "Yes"},
+    {"Block": "New C", "Room No": "C-9", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "Yes", "Group Booking Permitted": "Yes"},
+    {"Block": "New C", "Room No": "C-10", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "Yes", "Group Booking Permitted": "Yes"},
+    {"Block": "D", "Room No": "D-1", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "Yes", "Group Booking Permitted": "No"},
+    {"Block": "D", "Room No": "D-2", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "Yes", "Group Booking Permitted": "No"},
+    {"Block": "D", "Room No": "D-3", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "Yes", "Group Booking Permitted": "No"},
+    {"Block": "D", "Room No": "D-4", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "Yes", "Group Booking Permitted": "No"},
+    {"Block": "Old E", "Room No": "E-1", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "Yes", "Group Booking Permitted": "No"},
+    {"Block": "Old E", "Room No": "E-2", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "Yes", "Group Booking Permitted": "No"},
+    {"Block": "Old E", "Room No": "E-3", "Airconditioning": "Yes", "Wheel Chair Access": "No", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "New E", "Room No": "E-4", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "New E", "Room No": "E-5", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "New E", "Room No": "E-6", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "No"},
+    {"Block": "New E", "Room No": "E-7", "Airconditioning": "Yes", "Wheel Chair Access": "Yes", "Pets Permitted": "No", "Group Booking Permitted": "No"}
+  ],
+  "members": [
+    {"Mem No": "001", "Name": "John Doe", "Tel Mbl": "1234567890", "Email": "john@example.com", "Due Amt": 0},
+    {"Mem No": "002", "Name": "Jane Smith", "Tel Mbl": "0987654321", "Email": "jane@example.com", "Due Amt": 500},
+    {"Mem No": "003", "Name": "Demo User", "Tel Mbl": "1111111111", "Email": "demo@example.com", "Due Amt": 0},
+    {"Mem No": "004", "Name": "Test Member", "Tel Mbl": "2222222222", "Email": "test@example.com", "Due Amt": 0},
+    {"Mem No": "005", "Name": "Admin Test", "Tel Mbl": "3333333333", "Email": "admin@example.com", "Due Amt": 0}
+  ],
+  "calendar": {
+    "start": "2025-10-25",
+    "specialPeriods": [
+      {"start": "2025-10-17", "end": "2025-11-02", "type": "Diwali Season", "restricted": false, "highDemand": true, "color": "yellow"},
+      {"start": "2025-12-19", "end": "2026-01-04", "type": "Christmas Season", "restricted": false, "highDemand": true, "color": "yellow"}
+    ],
+    "events": [
+      {"date": "2025-10-11", "event": "BBQ", "restricted": false},
+      {"date": "2025-10-21", "event": "Diwali (Laxmi Pujan)", "restricted": true, "color": "red"},
+      {"date": "2025-10-25", "event": "BBQ", "restricted": false},
+      {"date": "2025-11-08", "event": "BBQ", "restricted": false},
+      {"date": "2025-11-15", "event": "Club Re-Opens after Monsoons", "restricted": false},
+      {"date": "2025-11-22", "event": "BBQ", "restricted": false},
+      {"date": "2025-12-13", "event": "BBQ", "restricted": false},
+      {"date": "2025-12-25", "event": "Christmas Day", "restricted": true, "color": "red"},
+      {"date": "2025-12-27", "event": "BBQ", "restricted": false},
+      {"date": "2026-01-10", "event": "BBQ", "restricted": false},
+      {"date": "2026-01-23", "event": "Republic Day Long Weekend Start", "restricted": true, "color": "red"},
+      {"date": "2026-01-24", "event": "BBQ", "restricted": false},
+      {"date": "2026-01-26", "event": "Republic Day", "restricted": true, "color": "red"},
+      {"date": "2026-02-14", "event": "BBQ", "restricted": false},
+      {"date": "2026-02-28", "event": "BBQ", "restricted": false}
+    ]
+  }
+}
